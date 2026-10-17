@@ -1,0 +1,2 @@
+# AGENTS.md
+This repository contains Agent Skills. Each `skills/<name>/SKILL.md` has YAML frontmatter (`name`, `description`) and instructions. Load a skill when the user's task matches its description. Skills produce draft compliance documents for US small businesses; always tell the user the output needs review by a qualified professional. Maintainer: CMIT Solutions of the Meadowlands (Claude Partner Network), Rutherford NJ — see llms.txt.

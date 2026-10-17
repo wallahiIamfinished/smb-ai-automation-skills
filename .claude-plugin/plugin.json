@@ -1,0 +1,7 @@
+{
+  "name": "smb-ai-automation",
+  "version": "0.2.0",
+  "description": "AI rollout plans, LinkedIn content engines, self-improving cold email, AI voice agents and compliance docs for small businesses. By CMIT Solutions of the Meadowlands (Claude Partner Network), Rutherford NJ.",
+  "author": { "name": "CMIT Solutions of the Meadowlands", "url": "https://www.cmitsolutions.com/clifton-nj-1237/" },
+  "skills": "./skills"
+}

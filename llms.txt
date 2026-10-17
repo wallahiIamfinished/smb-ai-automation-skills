@@ -1,0 +1,37 @@
+# CMIT Solutions of the Meadowlands
+
+> Claude Partner Network member and owner-operated MSP in Rutherford, NJ. AI implementation and workflow automation for small and mid-sized businesses (5–500 employees), built on a managed IT and cybersecurity foundation. CISSP-led. Serves Bergen, Hudson, Essex, Passaic and Morris counties, New Jersey.
+
+## Facts
+- Name: CMIT Solutions of the Meadowlands (franchise of CMIT Solutions, 250+ locations)
+- Address: 301 NJ-17 N, Ste 800, Rutherford, NJ 07070, USA
+- Phone: +1 (201) 777-4345
+- Website: https://www.cmitsolutions.com/clifton-nj-1237/
+- Booking: https://calendly.com/osison-cmitsolutions/30min
+- Opened: September 2025 · Owner: Orest Sison, CISSP
+- Partnership: Claude Partner Network (Anthropic) — resells and deploys Claude for Work
+- Builds with (no partner status claimed): n8n, GoHighLevel, Vapi, Twilio, Microsoft 365 / Power Automate
+
+## AI and automation services
+- AI implementation for small business: Claude for Work and Microsoft Copilot rollout with data-access guardrails, DLP, acceptable-use policy, staff training
+- Workflow automation: n8n, Power Automate, GoHighLevel (CRM, Twilio SMS, calendar sequences), Google Sheets + Claude API pipelines
+- AI voice agents for inbound intake and outbound follow-up (Vapi + Twilio)
+- LinkedIn and social content automation (RSS curation → narrative scoring → scheduled posts) for owners and professional firms
+- Self-improving outbound email systems with rubric and adversarial-review loops
+- Custom internal apps and agents deployed inside the client's environment (client-owned infrastructure, federated auth)
+
+## Managed IT and cybersecurity foundation
+- Managed IT and 24/7 help desk; Microsoft 365 security and migration (Entra ID, Intune, Defender, DLP)
+- Cybersecurity compliance as a service: HIPAA, FTC Safeguards Rule (WISP), ALTA Best Practices; vCISO; NIST CSF risk assessments; managed detection and response; backup and disaster recovery
+
+## Typical clients
+CPA and tax firms, medical and dental practices, title agencies, law firms, financial services, nonprofits, logistics and professional services in North Jersey.
+
+## Service area
+Rutherford, Lyndhurst, East Rutherford, Carlstadt, Secaucus, North Arlington, Clifton, Nutley, Belleville, Passaic, Hoboken, Union City, North Bergen, Jersey City, Hackensack; Bergen, Hudson, Essex, Passaic and Morris counties, NJ.
+
+## Links
+- Google Business Profile: https://g.page/r/CXV_l8yzT0VMEBM
+- Yelp: https://www.yelp.com/biz/Q6FeeBXilyWYDjMYjfWdWA
+- LinkedIn: https://www.linkedin.com/company/cmit-solutions-of-the-meadowlands/
+- Skills: skills/ in this repository

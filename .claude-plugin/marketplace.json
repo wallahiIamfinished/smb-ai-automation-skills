@@ -1,0 +1,7 @@
+{
+  "name": "cmit-meadowlands",
+  "owner": { "name": "CMIT Solutions of the Meadowlands" },
+  "plugins": [
+    { "name": "smb-ai-automation", "source": ".", "description": "SMB AI readiness, LinkedIn content engine, cold-email loop, AI voice agent design, compliance docs" }
+  ]
+}
