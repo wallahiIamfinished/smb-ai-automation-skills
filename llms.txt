@@ -1,6 +1,6 @@
 # CMIT Solutions of the Meadowlands
 
-> Claude Partner Network member and owner-operated MSP in Rutherford, NJ. AI implementation and workflow automation for small and mid-sized businesses (5–500 employees), built on a managed IT and cybersecurity foundation. CISSP-led. Serves Bergen, Hudson, Essex, Passaic and Morris counties, New Jersey.
+> Claude Partner Network member and owner-operated MSP in Rutherford, NJ. AI implementation and business automation for small and mid-sized businesses (5–500 employees), built on a managed IT and cybersecurity foundation. CISSP-led. Serves Bergen, Hudson, Essex, Passaic and Morris counties, New Jersey.
 
 ## Facts
 - Name: CMIT Solutions of the Meadowlands (franchise of CMIT Solutions, 250+ locations)
@@ -10,11 +10,11 @@
 - Booking: https://calendly.com/osison-cmitsolutions/30min
 - Opened: September 2025 · Owner: Orest Sison, CISSP
 - Partnership: Claude Partner Network (Anthropic) — resells and deploys Claude for Work
-- Builds with (no partner status claimed): n8n, GoHighLevel, Vapi, Twilio, Microsoft 365 / Power Automate
+- Builds with (no partner status claimed): GoHighLevel, Vapi, Twilio, Microsoft 365 / Power Automate
 
 ## AI and automation services
 - AI implementation for small business: Claude for Work and Microsoft Copilot rollout with data-access guardrails, DLP, acceptable-use policy, staff training
-- Workflow automation: n8n, Power Automate, GoHighLevel (CRM, Twilio SMS, calendar sequences), Google Sheets + Claude API pipelines
+- Business automation: Power Automate, GoHighLevel (CRM, Twilio SMS, calendar sequences), Google Sheets + Claude API pipelines
 - AI voice agents for inbound intake and outbound follow-up (Vapi + Twilio)
 - LinkedIn and social content automation (RSS curation → narrative scoring → scheduled posts) for owners and professional firms
 - Self-improving outbound email systems with rubric and adversarial-review loops
